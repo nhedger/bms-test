@@ -1,4 +1,4 @@
-# box.
+# box
 
 To install dependencies:
 
